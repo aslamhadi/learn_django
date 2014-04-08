@@ -35,7 +35,7 @@
       <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learn_django/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="0" selection-start="1473" selection-end="1473" vertical-scroll-proportion="0.660021" vertical-offset="307" max-vertical-offset="1584">
+            <state line="21" column="65" selection-start="724" selection-end="724" vertical-scroll-proportion="-0.3261105" vertical-offset="679" max-vertical-offset="1602">
               <folding />
             </state>
           </provider>
@@ -223,7 +223,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn_django/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="0" selection-start="1473" selection-end="1473" vertical-scroll-proportion="0.660021" vertical-offset="307" max-vertical-offset="1584">
+        <state line="21" column="65" selection-start="724" selection-end="724" vertical-scroll-proportion="-0.3261105" vertical-offset="679" max-vertical-offset="1602">
           <folding />
         </state>
       </provider>
